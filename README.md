@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MERN-Stack User Authentication Login Page
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -140,3 +141,6 @@ The application will be available at [http://localhost:3000](http://localhost:30
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
+=======
+# mern-auth
+>>>>>>> 3eb70f37dbbc55dca75911295f258d8d11fda22b
